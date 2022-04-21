@@ -9,7 +9,11 @@ export default function App() {
       <SearchEngine />
 
       <small>
-        <a href="https://github.com/AshM10/weather-app-react" target="_blank">
+        <a
+          href="https://github.com/AshM10/weather-app-react"
+          target="_blank"
+          rel="noreferrer"
+        >
           Open-source
         </a>{" "}
         code, by Ash Moreno
